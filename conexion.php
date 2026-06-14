@@ -13,7 +13,7 @@ try {
         $password
     );
 
-    echo "Conexión exitosa a la base de datos";
+    //echo "Conexión exitosa a la base de datos";
 
 } catch(PDOException $e) {
 
